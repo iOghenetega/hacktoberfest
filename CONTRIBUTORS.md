@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kaide Oghenetega](GitHub link)
+- Place: Lagos, Nigeria
+- Bio: Software Developer (Python, Javascript)?
+- GitHub: [iOghenetega](https://github.com/iOghenetega)
